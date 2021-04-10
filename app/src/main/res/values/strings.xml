@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="sprawdzLitere">Sprawdź literę</string>
+    <string name="sprawdzHaslo">Sprawdź hasło</string>
+    <string name="InputLetterOrWord">Wprowadz literę lub hasło</string>
+    <string name="msg_txt">Wylosowano nowe hasło</string>
+    <string name="wisielec">Wciśnij play by rozpocząc grę</string>
+    <string name="noLetterFound">Nie znalezono litery</string>
+    <string name="youLost">Przegrałeś !!!</string>
+    <string name="letterFound">Znaleziono literę</string>
+    <string name="tooMuchLetters">\"Podałeś zbyt wiele liter! Podaj tylko jedną. \"</string>
+    <string name="insertLetter">\"Wpisz literę \"</string>
+    <string name="wrongWord">Hasło nieprawidłowe</string>
+    <string name="correctWord">Wygrałeś!!!</string>
+    <string name="inputWord">\"Wpisz hasło \"</string>
+</resources>
